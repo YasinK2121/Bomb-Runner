@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Ocean/Levels/Level_1.unity
+    guid: b0399621f687b9a4a8b3b51f49394fd3
+  - enabled: 1
+    path: Assets/Ocean/Levels/Level_2.unity
+    guid: 1d5170604ad186744a2d24c086a53a94
+  - enabled: 1
+    path: Assets/Ocean/Levels/Level_3.unity
+    guid: 852a63a325bc0044abecd77ae0162f21
+  - enabled: 1
+    path: Assets/Ocean/Levels/Level_4.unity
+    guid: 743cfefb6129a964e9263139688468cf
+  - enabled: 1
+    path: Assets/Ocean/Levels/Level_5.unity
+    guid: fba7daa5e7272b04394b8a87d2471ed9
+  - enabled: 1
+    path: Assets/Ocean/Levels/Level_6.unity
+    guid: ad33191c3a8f30845a8cf6a8e37588e3
+  - enabled: 1
+    path: Assets/Ocean/Levels/Level_7.unity
+    guid: 98359e936998402409e7fd725dd6b196
+  - enabled: 1
+    path: Assets/Ocean/Levels/Level_8.unity
+    guid: 160722f2f1fe06d45a4d2d40bd5fadea
+  - enabled: 1
+    path: Assets/Ocean/Levels/Level_9.unity
+    guid: 9732d566f17edaa48a34b0d5ff2bcbd4
+  - enabled: 1
+    path: Assets/Ocean/Levels/Level_10.unity
+    guid: 258ff7b46a36a1c45858928ded39ee1a
+  m_configObjects: {}
